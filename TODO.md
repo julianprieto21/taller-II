@@ -1,8 +1,6 @@
 ### TODO
 
-- Al querer analizar por estado, hacerlo comparando contra el total de habitantes del estado en 2022
-- Distribucion de enfermedades por genero
-- Respecto al anterior, aperturar por genero, ver algunas enfermedades, etc. Analizar como se autoperciben de salud estos casos.
-
-- Analizar mas en profundidad las caracteristicas usadas por cada Componente Principal. Analizar los valores (no tango el gráfico)
-- Quedarse con los 2 clusters (sacar el de 8, muy complejo)
+- Analizar las variables que sobresalen en el analisis por componentes principales.
+- Implementar DBSCAN
+- Probar de graficos KMEANS con otras compontenes principales (no solo la primera y la segunda)
+- Implementar el algoritmo de k-means++ k-medoids Lloyd EM agglomerative clustering spectral clustering hierarchical
